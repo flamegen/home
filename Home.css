@@ -54,6 +54,11 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-text-3 {
+    font-weight: normal;
+    font-style: normal;
+  }
+
   .u-section-1 .embed-responsive-1 {
     width: 195%;
     left: -48%;
@@ -101,6 +106,7 @@
     font-weight: 700;
     font-style: italic;
     margin-bottom: 60px;
+    font-family: "Open Sans", sans-serif;
   }
 
   .u-section-1 .u-text-4 {
@@ -124,7 +130,6 @@
   }
 
   .u-section-1 .u-text-3 {
-    font-family: "Open Sans", sans-serif;
     width: 340px;
   }
 
