@@ -33687,50 +33687,98 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
+.u-footer {
+  background-image: url("images/1719718.gif");
+  background-position: 50% 50%;
+}
+
 .u-footer .u-sheet-1 {
-  min-height: 141px;
+  min-height: 485px;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto 60px;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+  font-size: 4.5rem;
+  background-image: none;
+  animation-duration: 1000ms;
+  font-family: Audiowide;
+  font-weight: 700;
+  margin: 82px 307px 0 349px;
 }
 
-.u-footer .embed-responsive-1 {
-  position: absolute;
-  width: 100%;
-  left: 0%;
-  height: 1639%;
-  top: -770%;
+.u-footer .u-text-2 {
+  font-weight: 400;
+  font-family: Audiowide;
+  margin: 86px 82px 60px 143px;
 }
 @media (max-width: 1199px) {
-  .u-footer .embed-responsive-1 {
-    height: 1185%;
-    top: -543%;
+  .u-footer .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 770px;
+    margin-top: 240px;
+    margin-right: 207px;
+    margin-left: 249px;
+  }
+
+  .u-footer .u-text-2 {
+    margin: -72px 631px 0 25px;
   }
 }
 @media (max-width: 991px) {
-  .u-footer .embed-responsive-1 {
-    height: 908%;
-    top: -404%;
+  .u-footer .u-sheet-1 {
+    min-height: 306px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 720px;
+    margin-top: 319px;
+    margin-left: 139px;
+    margin-right: 97px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-top: -151px;
+    margin-right: 483px;
+    margin-left: 0;
   }
 }
 @media (max-width: 767px) {
-  .u-footer .embed-responsive-1 {
-    height: 681%;
-    top: -290%;
+  .u-footer .u-sheet-1 {
+    min-height: 230px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 540px;
+    font-size: 3.75rem;
+    margin-top: 333px;
+    margin-left: 49px;
+    margin-right: 7px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-top: -152px;
+    margin-right: 362px;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-text-1 {
-    width: 340px;
+  .u-footer .u-sheet-1 {
+    min-height: 145px;
   }
 
-  .u-footer .embed-responsive-1 {
-    width: 178%;
-    left: -39%;
-    height: 178%;
-    top: -39%;
+  .u-footer .u-text-1 {
+    width: 340px;
+    font-size: 3rem;
+    margin-top: 263px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-footer .u-text-2 {
+    margin-top: -68px;
+    margin-right: 228px;
   }
 }
 
