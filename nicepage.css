@@ -33687,12 +33687,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 .u-footer {
-  background-image: url("images/tumblr_ohxteeGUQ81qzl9pho1_1280.gif");
+  background-image: url("images/422788321.gif");
   background-position: 50% 50%;
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 274px;
+  min-height: 394px;
 }
 
 .u-footer .u-text-1 {
@@ -33702,52 +33702,41 @@ a.u-link.u-text-hover-grey-90:hover {
   animation-duration: 1000ms;
   font-family: Audiowide;
   font-weight: 700;
-  margin: 85px 313px 60px 351px;
+  width: 476px;
+  margin: 158px auto 60px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 226px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-right: 213px;
-    margin-left: 251px;
+    min-height: 325px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 173px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-right: 103px;
-    margin-left: 141px;
+    min-height: 249px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 211px;
+    min-height: 284px;
   }
 
   .u-footer .u-text-1 {
     font-size: 3.75rem;
-    width: 384px;
-    margin-top: 81px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 394px;
+    margin-top: 60px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 224px;
+    min-height: 179px;
   }
 
   .u-footer .u-text-1 {
     font-size: 3rem;
     width: auto;
-    margin-top: 60px;
-    margin-left: 17px;
-    margin-right: 17px;
+    margin-top: 66px;
+    margin-right: -12px;
+    margin-left: 12px;
   }
 }
 
