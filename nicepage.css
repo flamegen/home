@@ -33676,16 +33676,48 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header {
-  background-image: none;
+  background-image: url("images/1529965031_tumblr_ngbasnF0bG1qze3hdo1_500.gif");
+  background-position: 50% 50%;
 }
 
 .u-header .u-sheet-1 {
-  min-height: 20px;
+  min-height: 136px;
 }
 
+.u-header .u-menu-1 {
+  margin: 62px auto 36px;
+}
 
+.u-header .u-nav-1 {
+  font-size: 1rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 
-
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
+}
+@media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 112px;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 86px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 65px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 41px;
+  }
+}
 .u-footer {
   background-image: url("images/422788321.gif");
   background-position: 50% 50%;
