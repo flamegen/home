@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1039px;
+  min-height: 1161px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,20 +15,20 @@
 
 .u-section-1 .u-text-2 {
   text-shadow: 0 2px 8px rgba(128,128,128,1);
-  font-size: 4.5rem;
+  font-size: 6rem;
   background-image: none;
   animation-duration: 1000ms;
   font-family: Audiowide;
   font-weight: 700;
   width: 770px;
-  margin: 54px auto 0;
+  margin: 91px auto 0;
 }
 
 .u-section-1 .u-text-3 {
   animation-duration: 1000ms;
   font-weight: 700;
   width: 770px;
-  margin: 52px auto 0;
+  margin: 148px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -38,7 +38,7 @@
   align-self: center;
   animation-duration: 1000ms;
   font-size: 1rem;
-  margin: 36px auto 0;
+  margin: 91px auto 0;
   padding: 10px 63px;
 }
 
@@ -47,18 +47,18 @@
   animation-duration: 1000ms;
   font-family: "Open Sans", sans-serif;
   width: 770px;
-  margin: 91px auto 60px;
+  margin: 182px auto 39px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 857px;
+    min-height: 957px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 656px;
+    min-height: 733px;
   }
 
   .u-section-1 .u-text-1 {
@@ -84,7 +84,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 492px;
+    min-height: 100vh;
   }
 
   .u-section-1 .u-text-1 {
@@ -106,10 +106,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 310px;
-  }
-
   .u-section-1 .u-text-1 {
     width: 340px;
   }
@@ -238,13 +234,18 @@
 .u-section-2 .u-text-9 {
   font-size: 4.5rem;
   animation-duration: 1000ms;
-  width: 645px;
-  margin: 84px auto 60px;
+  margin: 48px 224px 0 272px;
+}
+
+.u-section-2 .u-text-10 {
+  font-weight: 400;
+  animation-duration: 1000ms;
+  margin: 106px 234px 60px 262px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1561px;
+    min-height: 1564px;
   }
 
   .u-section-2 .u-list-1 {
@@ -276,15 +277,28 @@
   }
 
   .u-section-2 .u-text-8 {
-    margin-right: 306px;
-    margin-left: 334px;
     width: 645px;
+    margin-top: 74px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-9 {
+    width: 645px;
+    margin-top: 34px;
+    margin-right: 124px;
+    margin-left: 172px;
+  }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 134px;
+    margin-left: 162px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1973px;
+    min-height: 1198px;
   }
 
   .u-section-2 .u-list-1 {
@@ -331,11 +345,16 @@
     margin-left: 38px;
     margin-right: 38px;
   }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 24px;
+    margin-left: 52px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1769px;
+    min-height: 899px;
   }
 
   .u-section-2 .u-list-1 {
@@ -370,11 +389,16 @@
     margin-right: 0;
     margin-left: 0;
   }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1646px;
+    min-height: 566px;
   }
 
   .u-section-2 .u-list-1 {
@@ -396,12 +420,12 @@
 
   .u-section-2 .u-text-9 {
     font-size: 2.25rem;
-    margin-top: 48px;
+    margin-top: 34px;
   }
 }.u-section-3 {
-  background-image: url("images/1529965031_tumblr_ngbasnF0bG1qze3hdo1_500.gif");
+  background-image: url("images/b943c0bbebcdad3ab13f83869386cc47.gif");
   background-position: 50% 50%;
-  min-height: 1095px;
+  min-height: 1229px;
 }
 
 .u-section-3 .u-video-1 {
@@ -485,7 +509,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 {
-    min-height: 808px;
+    min-height: 918px;
   }
 
   .u-section-3 .u-video-1 {
@@ -543,7 +567,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 {
-    min-height: 703px;
+    min-height: 100vh;
   }
 
   .u-section-3 .u-video-1 {
@@ -554,7 +578,6 @@
   .u-section-3 .u-layout-wrap-1 {
     width: 720px;
     margin-top: 1691px;
-    margin-bottom: 0;
     margin-left: calc(((100% - 1140px) / 2) + 210px);
   }
 
@@ -600,7 +623,7 @@
 
 @media (max-width: 767px) {
   .u-section-3 {
-    min-height: 1130px;
+    min-height: 1240px;
   }
 
   .u-section-3 .u-video-1 {
@@ -611,7 +634,6 @@
   .u-section-3 .u-layout-wrap-1 {
     width: 540px;
     margin-top: 1445px;
-    margin-bottom: 60px;
     margin-left: calc(((100% - 1140px) / 2) + 300px);
   }
 

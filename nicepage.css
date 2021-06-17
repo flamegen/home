@@ -33712,7 +33712,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 249px;
+    min-height: 297px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: 60px;
   }
 }
 @media (max-width: 767px) {
@@ -33723,7 +33727,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-1 {
     font-size: 3.75rem;
     width: 394px;
-    margin-top: 60px;
   }
 }
 @media (max-width: 575px) {
